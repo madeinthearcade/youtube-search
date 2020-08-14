@@ -4,7 +4,7 @@ import VideoList from '../components/VideoList';
 import VideoPlayer from '../components/VideoPlayer';
 import youtube from '../API/youtube';
 
-const KEY = 'AIzaSyAU7KBz7GXto3hi5KckYtx7Ycgsy4fFXaY';
+const KEY = 'API_KEY';
 
 class App extends Component {
     state = {
